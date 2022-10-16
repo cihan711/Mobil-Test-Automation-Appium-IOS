@@ -21,4 +21,4 @@ XCode Emulator -> https://developer.apple.com/xcode/
 
 ### Sample mobil app:
 
-UIKiCatalog.app
+UIKitCatalog.app
